@@ -153,8 +153,8 @@ matrix-operations-tool/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@Tanwi20024](https://github.com/Tanwi20024)
+- LinkedIn: [tanwi-srivastava-55422a275](www.linkedin.com/in/tanwi-srivastava-55422a275)
 
 ---
 
@@ -164,8 +164,8 @@ This is **Project 3** in my Python learning series:
 
 | # | Project | Status |
 |---|---|---|
-| 1 | Project 1 Name | ✅ Done |
-| 2 | Project 2 Name | ✅ Done |
+| 1 | Student Data Analysis | ✅ Done |
+| 2 | House Price Prediction | ✅ Done |
 | 3 | Matrix Operations Tool | ✅ Done |
 
 ---
